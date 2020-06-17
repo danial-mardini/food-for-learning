@@ -1,0 +1,22 @@
+.logo{
+    height: 45px;
+    width: 45px;
+}
+.account-btn{
+    border-color: #ccc;
+}
+.text-div{
+    margin-top: 121px;
+}
+.purple{
+    color: #6f5fa6;
+}
+.title{
+    font-size: 57px;
+}
+.burger-icon{
+    border-radius: 30px;
+    background-color: pink;
+    color: #ccc;
+    padding: 13px;
+}
